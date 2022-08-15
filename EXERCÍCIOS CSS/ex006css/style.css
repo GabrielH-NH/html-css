@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+div h1{
+    display: none;
+}
+
+div:hover > h1 {
+    background-color: darkorchid;
+}

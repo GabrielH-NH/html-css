@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(116, 106, 92);
+}
+
+h2 {
+    color: chocolate;
+}
+
+#principal {
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(116, 106, 92);
+    background-color: cyan;
+}
+
+.basico {
+    color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.intermediario {
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.avancado {
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.titulo {
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}

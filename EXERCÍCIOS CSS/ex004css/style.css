@@ -1,0 +1,19 @@
+@charset "UTF-8"
+
+
+
+
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 16px;
+        color: black;
+    }
+    
+    h1, h2 {
+        font-family: 'Love', Times, serif;
+        font-size: 2em;
+        color: blueviolet;
+        font-weight: normal;
+    }
+
+
